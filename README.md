@@ -37,7 +37,7 @@ Here are some highlights of my projects:
 - [DynamicWebApplication](link-to-project) - Develop a system that automatically manages the lifecycle of a web application hosted on EC2 instances, monitors its health, and reacts to changes in traffic by scaling resources. Furthermore, administrators receive notifications regarding the infrastructure's health and scaling events.
 - [TravelMemory](https://github.com/sayanalokesh/TravelMemory) - The Travel Memory application, built with the MERN stack, is deployed on an Amazon EC2 instance, showcasing seamless integration between frontend and backend. The deployment involves load balancing, multiple server instances, and domain configuration via Cloudflare, ensuring a scalable and secure architecture.
 
-Feel free to explore more of my projects on my [GitHub repositories](https://github.com/sayanalokesh).
+Feel free to explore more of my projects on my [GitHub repositories](https://github.com/sayanalokesh?tab=repositories).
 
 ## Get in Touch
 
