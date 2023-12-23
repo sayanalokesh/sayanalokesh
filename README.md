@@ -16,34 +16,18 @@ I am a dedicated DevOps engineer with a passion for streamlining development pro
 
 <div style="display:flex; justify-content: center; align-items: center;">
     <img src="https://i.pinimg.com/564x/14/96/50/149650cf203a19c9aea21b9092cb186d.jpg" alt="AWS" height="50" />
-    <img src="https://logo.clearbit.com/kubernetes.io" alt="Kubernetes" height="50" />
-    <img src="https://logo.clearbit.com/docker.com" alt="Docker" height="50" />
-    <img src="https://logo.clearbit.com/linuxfoundation.org" alt="Linux" height="50" />
-    <img src="https://logo.clearbit.com/terraform.io" alt="Terraform" height="50" />
-    <img src="https://logo.clearbit.com/jenkins.io" alt="Jenkins" height="50" />
-    <img src="https://logo.clearbit.com/ansible.com" alt="Ansible" height="50" />
-    <img src="https://logo.clearbit.com/gnu.org" alt="Bash" height="50" />
-    <img src="https://logo.clearbit.com/github.com" alt="GitHub" height="50" />
-    <img src="https://logo.clearbit.com/mongodb.com" alt="MongoDB" height="50" />
-    <img src="https://logo.clearbit.com/nginx.com" alt="NGINX" height="50" />
-    <img src="https://logo.clearbit.com/devops.com" alt="DevOps" height="50" />
+    <img src="https://in.pinterest.com/pin/1026609677543482854/" alt="DevOps" height="50" />
+    <img src="https://in.pinterest.com/pin/898397825636089578/" alt="Linux" height="50" />
+    <img src="https://in.pinterest.com/pin/786933734907163271/" alt="Docker" height="50" />
+    <img src="https://in.pinterest.com/pin/296393219208313674/" alt="Jenkins" height="50" />
+    <img src="https://in.pinterest.com/pin/700661654532887962/" alt="GitHub" height="50" />    
+    <img src="https://in.pinterest.com/pin/812336851567079941/" alt="NGINX" height="50" />
+    <img src="https://in.pinterest.com/pin/847732329879315188/" alt="Bash" height="50" />
+    <img src="https://in.pinterest.com/pin/460141286919099544/" alt="Ansible" height="50" />
+    <img src="https://in.pinterest.com/pin/31947478600344584/" alt="MongoDB" height="50" />    
+    <img src="https://in.pinterest.com/pin/288230444886433290/" alt="Terraform" height="50" />
+    <img src="https://in.pinterest.com/pin/760615824572264360/" alt="Kubernetes" height="50" />
 </div>
-
-## Technical Skills
-
-- ![Amazon Web Services](https://logo.clearbit.com/aws.amazon.com) AWS ☁️
-- ![DevOps](https://logo.clearbit.com/devops.com) DevOps 🛠️
-- ![Linux](https://logo.clearbit.com/linuxfoundation.org) Linux 🐧
-- ![Jenkins](https://logo.clearbit.com/jenkins.io) Jenkins 🔧
-- ![GitHub](https://logo.clearbit.com/github.com) GitHub 🐱
-- ![NGINX](https://logo.clearbit.com/nginx.com) NGINX ⚡
-- ![Bash](https://logo.clearbit.com/gnu.org) Bash 🐚
-- ![Docker](https://logo.clearbit.com/docker.com) Docker 🐳
-- ![Kubernetes](https://logo.clearbit.com/kubernetes.io) Kubernetes ☸️
-- ![Terraform](https://logo.clearbit.com/terraform.io) Terraform 🛠️
-- ![Ansible](https://logo.clearbit.com/ansible.com) Ansible ⚙️
-- ![MongoDB](https://logo.clearbit.com/mongodb.com) MongoDB 🍃
-
 
 ## Projects
 
