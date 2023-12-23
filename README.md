@@ -16,7 +16,7 @@ I am a dedicated DevOps engineer with a passion for streamlining development pro
 
 Here are some highlights of my projects:
 
-- [Dockerizing-a-Plain-HTML-Page-with-Nginx]([link-to-project](https://github.com/sayanalokesh/Dockerizing-a-Plain-HTML-Page-with-Nginx)) - The goal of this project is to get acquainted with Docker and containerization. You'll achieve this by using Docker to containerize a basic HTML page, employing Nginx as the web server.
+- [Dockerizing-a-Plain-HTML-Page-with-Nginx](https://github.com/sayanalokesh/Dockerizing-a-Plain-HTML-Page-with-Nginx) - The goal of this project is to get acquainted with Docker and containerization. You'll achieve this by using Docker to containerize a basic HTML page, employing Nginx as the web server.
 - [DynamicWebApplication](link-to-project) - Develop a system that automatically manages the lifecycle of a web application hosted on EC2 instances, monitors its health, and reacts to changes in traffic by scaling resources. Furthermore, administrators receive notifications regarding the infrastructure's health and scaling events.
 - [TravelMemory]([link-to-project](https://github.com/sayanalokesh/TravelMemory)) - The Travel Memory application, built with the MERN stack, is deployed on an Amazon EC2 instance, showcasing seamless integration between frontend and backend. The deployment involves load balancing, multiple server instances, and domain configuration via Cloudflare, ensuring a scalable and secure architecture.
 
@@ -26,18 +26,8 @@ Feel free to explore more of my projects on my [GitHub repositories](https://git
 
 Let's connect and collaborate:
 
-- 📧 Email: your.email@example.com
-- 💬 LinkedIn: [Saya Lokesh](https://www.linkedin.com/in/sayanalokesh/)
-- 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-
-## Support Me
-
-If you find my work helpful or interesting, consider supporting me:
-
-- ☕️ Buy me a coffee: [BuyMeACoffee Profile](link-to-profile)
-- 💖 Sponsor me on GitHub: [GitHub Sponsors](link-to-profile)
-
-Your support means a lot and motivates me to keep improving and creating.
+- 📧 Email: lokesh.sayana@gmail.com
+- 💬 LinkedIn: [Sayana Lokesh](www.linkedin.com/in/lokeshsayana)
 
 ## Thank You
 
