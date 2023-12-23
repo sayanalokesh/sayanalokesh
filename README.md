@@ -10,7 +10,7 @@ I am a dedicated DevOps engineer with a passion for streamlining development pro
 - 🔭 I’m working on various personal and open-source projects.
 - 🤝 I’m open to collaborations and contributions.
 
-![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=sayanalokesh.sayanalokesh)
+![Profile Visits](https://komarev.com/ghpvc/?username=sayanalokesh&label=Profile%20Visits&color=0e75b6&style=flat)
 
 ## Projects
 
