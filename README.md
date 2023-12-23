@@ -15,7 +15,7 @@ I am a dedicated DevOps engineer with a passion for streamlining development pro
 ## Technical Skills
 
 <div style="display:flex; justify-content: center; align-items: center;">
-    <img src="https://logo.clearbit.com/aws.amazon.com" alt="AWS" height="50" />
+    <img src="https://i.pinimg.com/564x/14/96/50/149650cf203a19c9aea21b9092cb186d.jpg" alt="AWS" height="50" />
     <img src="https://logo.clearbit.com/kubernetes.io" alt="Kubernetes" height="50" />
     <img src="https://logo.clearbit.com/docker.com" alt="Docker" height="50" />
     <img src="https://logo.clearbit.com/linuxfoundation.org" alt="Linux" height="50" />
