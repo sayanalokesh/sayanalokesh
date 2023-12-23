@@ -6,11 +6,27 @@ I am a dedicated DevOps engineer with a passion for streamlining development pro
 ## About Me
 
 - 💻 I'm proficient in ☁️ AWS 🌐, Kubernetes ☸️, Jenkins 🔧, Docker and more.
-- 🌱 I’m currently concurrently pursuing certification with Hero Vired to further enhance my skills and expertise in the field.
+- 🌱 I’m currently pursuing certification with Hero Vired to further enhance my skills and expertise in the field.
 - 🔭 I’m working on various personal and open-source projects.
 - 🤝 I’m open to collaborations and contributions.
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=sayanalokesh&label=Profile%20Visits&color=0e75b6&style=flat)
+
+## Technical Skills
+
+- ![Amazon Web Services](https://logo.clearbit.com/aws.amazon.com) AWS ☁️
+- ![DevOps](https://logo.clearbit.com/devops.com) DevOps 🛠️
+- ![Linux](https://logo.clearbit.com/linuxfoundation.org) Linux 🐧
+- ![Jenkins](https://logo.clearbit.com/jenkins.io) Jenkins 🔧
+- ![GitHub](https://logo.clearbit.com/github.com) GitHub 🐱
+- ![NGINX](https://logo.clearbit.com/nginx.com) NGINX ⚡
+- ![Bash](https://logo.clearbit.com/gnu.org) Bash 🐚
+- ![Docker](https://logo.clearbit.com/docker.com) Docker 🐳
+- ![Kubernetes](https://logo.clearbit.com/kubernetes.io) Kubernetes ☸️
+- ![Terraform](https://logo.clearbit.com/terraform.io) Terraform 🛠️
+- ![Ansible](https://logo.clearbit.com/ansible.com) Ansible ⚙️
+- ![MongoDB](https://logo.clearbit.com/mongodb.com) MongoDB 🍃
+
 
 ## Projects
 
