@@ -16,16 +16,16 @@ I am a dedicated DevOps engineer with a passion for streamlining development pro
 
 <div style="display:flex; justify-content: center; align-items: center;">
     <img src="https://i.pinimg.com/564x/14/96/50/149650cf203a19c9aea21b9092cb186d.jpg" alt="AWS" height="50" />
-    <img src="https://in.pinterest.com/pin/1026609677543482854/" alt="DevOps" height="50" />
-    <img src="https://in.pinterest.com/pin/898397825636089578/" alt="Linux" height="50" />
-    <img src="https://in.pinterest.com/pin/786933734907163271/" alt="Docker" height="50" />
-    <img src="https://in.pinterest.com/pin/296393219208313674/" alt="Jenkins" height="50" />
-    <img src="https://in.pinterest.com/pin/700661654532887962/" alt="GitHub" height="50" />    
-    <img src="https://in.pinterest.com/pin/812336851567079941/" alt="NGINX" height="50" />
-    <img src="https://in.pinterest.com/pin/847732329879315188/" alt="Bash" height="50" />
-    <img src="https://in.pinterest.com/pin/460141286919099544/" alt="Ansible" height="50" />
-    <img src="https://in.pinterest.com/pin/31947478600344584/" alt="MongoDB" height="50" />    
-    <img src="https://in.pinterest.com/pin/288230444886433290/" alt="Terraform" height="50" />
+    <img src="https://i.pinimg.com/564x/6f/96/39/6f96397c91e42286f79ae70f74d91485.jpg" alt="DevOps" height="50" />
+    <img src="https://i.pinimg.com/564x/72/23/be/7223bece47ef99ec3ed361f4a4b36433.jpg" alt="Linux" height="50" />
+    <img src="https://i.pinimg.com/564x/8b/81/38/8b8138c4491769dd53c5dc09b6548ecf.jpg" alt="Docker" height="50" />
+    <img src="https://i.pinimg.com/564x/48/c6/11/48c6110abb4c1a3a7acb38be7e2acec9.jpg" alt="Jenkins" height="50" />
+    <img src="https://i.pinimg.com/564x/f9/a6/12/f9a6129b0d10fd385e85a8cc50e25e15.jpg" alt="GitHub" height="50" />    
+    <img src="https://i.pinimg.com/564x/ef/40/5e/ef405e000a5fe6e3dfed86a2776c443a.jpg" alt="NGINX" height="50" />
+    <img src="https://i.pinimg.com/564x/48/70/f8/4870f86d7606a6b72a702c82322ac399.jpg" alt="Bash" height="50" />
+    <img src="https://i.pinimg.com/564x/8c/44/4d/8c444dce50649007e5bc515ca7c79336.jpg" alt="Ansible" height="50" />
+    <img src="https://i.pinimg.com/564x/92/b6/52/92b6525bad11d0df5ff0f18bfe5bceb0.jpg" alt="MongoDB" height="50" />    
+    <img src="https://i.pinimg.com/564x/f4/eb/fb/f4ebfbfd9f2dc4f1200c52c207abcab1.jpg" alt="Terraform" height="50" />
     <img src="https://i.pinimg.com/564x/99/c0/d9/99c0d9b408d0b3f3c9ab2ac5046c4fdb.jpg" alt="Kubernetes" height="50" />
 </div>
 
