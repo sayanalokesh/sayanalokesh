@@ -26,7 +26,7 @@ I am a dedicated DevOps engineer with a passion for streamlining development pro
     <img src="https://in.pinterest.com/pin/460141286919099544/" alt="Ansible" height="50" />
     <img src="https://in.pinterest.com/pin/31947478600344584/" alt="MongoDB" height="50" />    
     <img src="https://in.pinterest.com/pin/288230444886433290/" alt="Terraform" height="50" />
-    <img src="https://in.pinterest.com/pin/760615824572264360/" alt="Kubernetes" height="50" />
+    <img src="https://i.pinimg.com/564x/99/c0/d9/99c0d9b408d0b3f3c9ab2ac5046c4fdb.jpg" alt="Kubernetes" height="50" />
 </div>
 
 ## Projects
