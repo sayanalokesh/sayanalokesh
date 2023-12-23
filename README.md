@@ -14,6 +14,23 @@ I am a dedicated DevOps engineer with a passion for streamlining development pro
 
 ## Technical Skills
 
+<div style="display:flex; justify-content: center; align-items: center;">
+    <img src="https://logo.clearbit.com/aws.amazon.com" alt="AWS" height="50" />
+    <img src="https://logo.clearbit.com/kubernetes.io" alt="Kubernetes" height="50" />
+    <img src="https://logo.clearbit.com/docker.com" alt="Docker" height="50" />
+    <img src="https://logo.clearbit.com/linuxfoundation.org" alt="Linux" height="50" />
+    <img src="https://logo.clearbit.com/terraform.io" alt="Terraform" height="50" />
+    <img src="https://logo.clearbit.com/jenkins.io" alt="Jenkins" height="50" />
+    <img src="https://logo.clearbit.com/ansible.com" alt="Ansible" height="50" />
+    <img src="https://logo.clearbit.com/gnu.org" alt="Bash" height="50" />
+    <img src="https://logo.clearbit.com/github.com" alt="GitHub" height="50" />
+    <img src="https://logo.clearbit.com/mongodb.com" alt="MongoDB" height="50" />
+    <img src="https://logo.clearbit.com/nginx.com" alt="NGINX" height="50" />
+    <img src="https://logo.clearbit.com/devops.com" alt="DevOps" height="50" />
+</div>
+
+## Technical Skills
+
 - ![Amazon Web Services](https://logo.clearbit.com/aws.amazon.com) AWS ☁️
 - ![DevOps](https://logo.clearbit.com/devops.com) DevOps 🛠️
 - ![Linux](https://logo.clearbit.com/linuxfoundation.org) Linux 🐧
