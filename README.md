@@ -44,7 +44,7 @@ Feel free to explore more of my projects on my [GitHub repositories](https://git
 Let's connect and collaborate:
 
 - 📧 Email: lokesh.sayana@gmail.com
-- 💬 LinkedIn: [Sayana Lokesh](www.linkedin.com/in/lokeshsayana)
+- 💬 LinkedIn: [Sayana Lokesh](www.linkedin.com/lokeshsayana)
 
 ## Thank You
 
